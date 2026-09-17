@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**BritoliJP/BritoliJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia da Computação** no Brasil, atualmente no 4º semestre, explorando o mundo do desenvolvimento e dos sistemas embarcados.
 
-Here are some ideas to get you started:
+## 🔭 Sobre mim
+- 🎓 Cursando Engenharia da Computação
+- 🌱 Estudando **Java** e **Programação Orientada a Objetos (POO)**
+- 💾 Aprofundando conhecimentos em **SQL** e banco de dados
+- 🔌 Explorando **sistemas embarcados** como possível área de carreira
+- 🚦 Trabalhando em um projeto de **semáforo inteligente** com ESP32, câmera e LEDs, que ajusta o tempo do sinal de acordo com o fluxo de carros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e ferramentas
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 🚀 Projeto em destaque
+
+### 🚦 Semáforo Inteligente
+Projeto em grupo desenvolvido na faculdade, que usa uma câmera para analisar o fluxo de veículos em cada via e ajustar dinamicamente o tempo de abertura/fechamento do semáforo — mais tempo aberto para vias com mais carros, menos tempo para vias com menos movimento.
+
+**Hardware:** ESP32, câmera, LEDs
+
+## 📊 Estatísticas do GitHub
+
+![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
+## 📫 Contato
+- LinkedIn: [seu link aqui]
+- Email: [seu email aqui]
+
+---
+⭐ Sinta-se à vontade para explorar meus repositórios!
