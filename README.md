@@ -11,11 +11,10 @@ Sou estudante de **Engenharia da Computação** no Brasil, atualmente no 4º sem
 
 ## 🛠️ Tecnologias e ferramentas
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white).
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 🚀 Projeto em destaque
@@ -32,7 +31,7 @@ Projeto em grupo desenvolvido na faculdade, que usa uma câmera para analisar o 
 
 ## 📫 Contato
 - LinkedIn: [seu link aqui]
-- Email: [seu email aqui]
+- Email: britolijp@gmail.com
 
 ---
 ⭐ Sinta-se à vontade para explorar meus repositórios!
