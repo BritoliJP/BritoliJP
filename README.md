@@ -1,6 +1,7 @@
 # Olá! 👋
 
 Sou estudante de **Engenharia da Computação** no Brasil, atualmente no 4º semestre, explorando o mundo do desenvolvimento e dos sistemas embarcados.
+Este é o meu perfil para teste e trabalhos acadêmicos.
 
 ## 🔭 Sobre mim
 - 🎓 Cursando Engenharia da Computação
